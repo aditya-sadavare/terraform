@@ -391,6 +391,9 @@ docker_container.grafana: Creation complete after 5s [id=0ce83e5dfefd231ab97363d
 
 Apply complete! Resources: 2 added, 0 changed, 0 destroyed.
 ```
+![image](https://github.com/user-attachments/assets/1245134c-aa9e-4e69-b482-6db52f1acc97)
+![image](https://github.com/user-attachments/assets/8f4ab96d-80d2-4064-8961-5c0367d06d17)
+
 
 ```
 PS E:\wisdom\terraform\3> terraform init
